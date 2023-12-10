@@ -5,5 +5,3 @@ program holamundo
         c=a+b
         write (*,*) 'La suma de',a,'y',b,'es',c
 end program holamundo
-
-
